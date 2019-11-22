@@ -11,7 +11,7 @@ namespace Cocktails
 
     public class Drink : Drinkable 
     {
-        //
+        
 
         [Key]
         public int ID { get; set; }
